@@ -1,2 +1,8 @@
 # knowledge-garden
-简悦 + Logseq + Github Page 无代码全自动化知识管理发布方案
+
+- This is Fred Lai from Taiwan.
+	- YouTube: https://www.youtube.com/c/FredLai
+	- Matters: https://matters.news/@fred1357944
+	- Instagram: https://www.instagram.com/fredhongyi/
+	- facebook: https://www.facebook.com/profile.php?id=100000961884497
+	- Github: https://github.com/fred1357944
