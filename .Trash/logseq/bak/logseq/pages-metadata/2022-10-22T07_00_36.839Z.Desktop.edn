@@ -115,24 +115,9 @@
  {:block/name "2022-10-02",
   :block/created-at 1664671001066,
   :block/updated-at 1664699498337}
- {:block/name "2022-10-22",
-  :block/created-at 1666421435355,
-  :block/updated-at 1666421435355}
- {:block/name "2022-10-23",
-  :block/created-at 1666450858488,
-  :block/updated-at 1666450858488}
- {:block/name "2022-10-24",
-  :block/created-at 1666539802324,
-  :block/updated-at 1666539802324}
- {:block/name "2022-10-28",
-  :block/created-at 1666943977881,
-  :block/updated-at 1666943977881}
- {:block/name "2022-10-29",
-  :block/created-at 1666973924349,
-  :block/updated-at 1666973924349}
- {:block/name "2022-11-01",
-  :block/created-at 1667286957121,
-  :block/updated-at 1667286957121}
+ {:block/name "2022-10-03",
+  :block/created-at 1664722800879,
+  :block/updated-at 1664722800879}
  {:block/name "42-正確使用卡片盒筆記法（zettelkasten）的六個關鍵步驟 - 閱讀前哨站@annote",
   :block/created-at 1664671003641,
   :block/updated-at 1664671003641}
