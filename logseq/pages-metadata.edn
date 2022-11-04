@@ -141,7 +141,7 @@
   :block/updated-at 1667452582114}
  {:block/name "2022-11-04",
   :block/created-at 1667545469394,
-  :block/updated-at 1667545469394}
+  :block/updated-at 1667545867231}
  {:block/name "42-正確使用卡片盒筆記法（zettelkasten）的六個關鍵步驟 - 閱讀前哨站@annote",
   :block/created-at 1664671003641,
   :block/updated-at 1664671003641}
@@ -378,10 +378,6 @@
  {:block/name "waiting",
   :block/created-at 1643949092471,
   :block/updated-at 1643949092471}
- {:block/name
-  "zettelkasten knowledge and info management • zettelkasten method",
-  :block/created-at 1667545469946,
-  :block/updated-at 1667545469946}
  {:block/name "下冊",
   :block/created-at 1664671001822,
   :block/updated-at 1664671001822}
@@ -403,9 +399,6 @@
  {:block/name "公共建築",
   :block/created-at 1664671002587,
   :block/updated-at 1664671002587}
- {:block/name "分支的合并【分支】- 猴子都能懂的 git 入门 - 贝格乐（backlog）",
-  :block/created-at 1667545470150,
-  :block/updated-at 1667545470150}
  {:block/name "双链笔记软件推荐：logseq 和它的五种用法",
   :block/created-at 1664671003982,
   :block/updated-at 1664671003982}
