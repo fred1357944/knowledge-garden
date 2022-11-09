@@ -115,67 +115,27 @@
  {:block/name "2022-10-02",
   :block/created-at 1664671001066,
   :block/updated-at 1664699498337}
- {:block/name "2022-10-22",
-  :block/created-at 1666421435355,
-  :block/updated-at 1666421435355}
- {:block/name "2022-10-23",
-  :block/created-at 1666450858488,
-  :block/updated-at 1666450858488}
- {:block/name "2022-10-24",
-  :block/created-at 1666539802324,
-  :block/updated-at 1666539802324}
- {:block/name "2022-10-28",
-  :block/created-at 1666943977881,
-  :block/updated-at 1666943977881}
- {:block/name "2022-10-29",
-  :block/created-at 1666973924349,
-  :block/updated-at 1666973924349}
- {:block/name "2022-11-01",
-  :block/created-at 1667286957121,
-  :block/updated-at 1667286957121}
  {:block/name "2022-11-02",
   :block/created-at 1667545469733,
   :block/updated-at 1667545469733}
- {:block/name "2022-11-03",
-  :block/created-at 1667452582114,
-  :block/updated-at 1667452582114}
  {:block/name "2022-11-04",
   :block/created-at 1667545469394,
   :block/updated-at 1667546982059}
- {:block/name "2022-11-05",
-  :block/created-at 1667577654016,
-  :block/updated-at 1667577654016}
- {:block/name "2022-11-06",
-  :block/created-at 1667668661932,
-  :block/updated-at 1667668661932}
- {:block/name "2022-11-07",
-  :block/created-at 1667796880267,
-  :block/updated-at 1667796880267}
  {:block/name "2022-11-08",
   :block/created-at 1667871779517,
-  :block/updated-at 1667961666314}
+  :block/updated-at 1667961937463}
  {:block/name "2022-11-09",
   :block/created-at 1667923204463,
-  :block/updated-at 1667961626225}
+  :block/updated-at 1667964607352}
  {:block/name "42-正確使用卡片盒筆記法（zettelkasten）的六個關鍵步驟 - 閱讀前哨站@annote",
   :block/created-at 1664671003641,
   :block/updated-at 1664671003641}
- {:block/name "42-正確使用卡片盒筆記法（zettelkasten）的六個關鍵步驟 - 閱讀前哨站@annote 3",
-  :block/created-at 1664671003624,
-  :block/updated-at 1664671003624}
  {:block/name "48-利用 github actions 将简悦的每日回顾推送到 telegram 或飞书群@annote",
   :block/created-at 1664671003737,
   :block/updated-at 1664671003737}
- {:block/name
-  "48-利用 github actions 将简悦的每日回顾推送到 telegram 或飞书群@annote 3",
-  :block/created-at 1664671003707,
-  :block/updated-at 1664671003707}
  {:block/name "67-我的时间管理工具 · 构建我的被动收入@annote",
   :block/created-at 1664671004611,
   :block/updated-at 1664671004611}
- {:block/name "67-我的时间管理工具 · 构建我的被动收入@annote 3",
-  :block/created-at 1664671004465,
-  :block/updated-at 1664671004465}
  {:block/name
   "@peak shear strength of discrete fiber-reinforced soils computed by machine learning and metaensemble methods | journal of computing in civil engineering | vol 30, no 6",
   :block/created-at 1664671003212,
@@ -263,9 +223,6 @@
  {:block/name "done",
   :block/created-at 1643949092472,
   :block/updated-at 1643949092472}
- {:block/name "draws/2022-11-09-10-14-01.excalidraw",
-  :block/created-at 1667960171606,
-  :block/updated-at 1667960171606}
  {:block/name "example_vault",
   :block/created-at 1664671003082,
   :block/updated-at 1664671003082}
@@ -396,6 +353,10 @@
  {:block/name "waiting",
   :block/created-at 1643949092471,
   :block/updated-at 1643949092471}
+ {:block/name
+  "zettelkasten knowledge and info management • zettelkasten method",
+  :block/created-at 1667964597973,
+  :block/updated-at 1667964597973}
  {:block/name "下冊",
   :block/created-at 1664671001822,
   :block/updated-at 1664671001822}
@@ -417,6 +378,9 @@
  {:block/name "公共建築",
   :block/created-at 1664671002587,
   :block/updated-at 1664671002587}
+ {:block/name "分支的合并【分支】- 猴子都能懂的 git 入门 - 贝格乐（backlog）",
+  :block/created-at 1667964598000,
+  :block/updated-at 1667964598000}
  {:block/name "双链笔记软件推荐：logseq 和它的五种用法",
   :block/created-at 1664671003982,
   :block/updated-at 1664671003982}

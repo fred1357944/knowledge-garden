@@ -2,8 +2,6 @@
  {:version "v0.0.4", :repo "hserranome/logseq-imgur-upload", :effect false, :theme false},
  :logseq-paste-more
  {:version "v1.5.0", :repo "usoonees/logseq-plugin-paste-more", :effect true, :theme false},
- :logseq-toc-plugin
- {:version "v1.5.2", :repo "hkgnp/logseq-toc-plugin", :effect false, :theme false},
  :logseq-plugin-heading-level-shortcuts
  {:version "v0.0.5", :repo "vipzhicheng/logseq-plugin-heading-level-shortcuts", :effect false, :theme false},
  :logseq-doc
@@ -34,10 +32,7 @@
  :logseq-heatmap
  {:version "v2.4.3", :repo "pengx17/logseq-plugin-heatmap", :effect true, :theme false},
  :logseq-bullet-threading
- {:version "v1.1.0",
-  :repo "pengx17/logseq-plugin-bullet-threading",
-  :effect false,
-  :theme false},
+ {:version "v1.1.1", :repo "pengx17/logseq-plugin-bullet-threading", :effect false, :theme false},
  :logseq-extract-plugin
  {:version "v2.0.4",
   :repo "sidharth-panwar/logseq-extract-plugin",
@@ -58,11 +53,6 @@
   :theme true},
  :logseq-todo-master
  {:version "v1.10.3", :repo "pengx17/logseq-plugin-todo-master", :effect false, :theme false},
- :logseq-tabs
- {:version "v1.13.1",
-  :repo "pengx17/logseq-plugin-tabs",
-  :effect true,
-  :theme false},
  :logseq-block-to-page
  {:version "v1.3.0",
   :repo "hyrijk/logseq-plugin-block-to-page",
@@ -74,15 +64,7 @@
   :effect false,
   :theme false},
  :logseq-agenda
- {:version "v2.2.0",
-  :repo "haydenull/logseq-plugin-agenda",
-  :effect true,
-  :theme false},
- :logseq-link-preview
- {:version "v2.2.7",
-  :repo "pengx17/logseq-plugin-link-preview",
-  :effect true,
-  :theme false},
+ {:version "v2.10.0", :repo "haydenull/logseq-plugin-agenda", :effect true, :theme false},
  :logseq-hypothesis
  {:version "v0.2.3",
   :repo "c6p/logseq-hypothesis",
@@ -146,4 +128,7 @@
  {:version "v0.2.3",
   :repo "vipzhicheng/logseq-plugin-mark-map",
   :effect false, 
-  :theme false}}
+  :theme false}
+ :logseq-tocgen {:version "v1.21.4", :repo "sethyuan/logseq-plugin-tocgen", :effect true, :theme false}
+ :logseq-task-management-shortcuts {:version "v0.0.3", :repo "vipzhicheng/logseq-plugin-task-management-shortcuts", :effect false, :theme false}
+ :logtools {:version "0.0.5", :repo "cannibalox/logtools", :effect false, :theme false}}
